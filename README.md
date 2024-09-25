@@ -1,11 +1,11 @@
 <div align="center">
-<a href='https://azemcov.github.io/quiz_Svoya_Igra/'><img src="./assets/logo-Dys92ceR.svg" alt="showcase" width="40%"></a>
+<a href='https://azemcov.github.io/quiz_Svoya_Igra'><img src="./assets/logo-Dys92ceR.svg" alt="Логотип «Своя Игра»" width="40%"></a>
 </div>
 
 <h1 align="center">Браузерный интерфейс для проведения квиза по мотивам ТВ-передачи «Своя Игра»</h1>
 
 <div align="center">
-<a href='https://azemcov.github.io/quiz_Svoya_Igra/'>👉👉 ОТКРЫТЬ 👈👈</a>
+<a href='https://azemcov.github.io/quiz_Svoya_Igra'>👉👉 ОТКРЫТЬ 👈👈</a>
 </div>
 
 ## 📖 Описание
@@ -22,7 +22,10 @@
 
 ## ⚙️ Использованные технологии
 
-<div align="center">
-<a href='https://azemcov.github.io/quiz_Svoya_Igra/'><img src="./assets/logo-Dys92ceR.svg" alt="showcase" width="40%"></a>
-</div>
+[React](react.dev)
+<br>
+[Vite](vitejs.dev)
+<br>
+[BootStrap](getbootstrap.com)
+
 
